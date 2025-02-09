@@ -1,0 +1,1 @@
+This repository contains code for various biological neuron models, including Hodgkin-Huxley, Morris-Lecar, Izhikevich, and a hybrid model. The code is designed for the Backyard Brains microcontroller-based in silico neuron model.
